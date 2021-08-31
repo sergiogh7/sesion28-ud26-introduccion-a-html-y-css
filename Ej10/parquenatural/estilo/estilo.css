@@ -1,0 +1,87 @@
+h1{
+    color: rgb(53, 155, 104);
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a{
+    text-decoration: none; 
+}
+
+img{
+    border-radius: 10%;
+}
+
+.titulo{
+    color:peru;
+}
+
+.sierra{
+    color: orange;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.actual{
+    background: linear-gradient(to top, burlywood, white);
+    border: solid black 1px;
+    width: 100px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-align: center;
+    border-radius: 2px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.index:hover, .especies:hover, .reservas:hover, .galeria:hover{
+    background: linear-gradient(to top, burlywood, white);
+}
+
+.index, .especies, .reservas, .galeria{
+    background: linear-gradient(to top, greenyellow, white);
+    border: solid black 1px;
+    width: 100px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-align: center;
+    border-radius: 2px;
+    margin-bottom: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.a{
+    text-decoration: none;
+}
+
+.ul{
+    display:inline;
+    padding-left:3px;
+    padding-right:3px;
+    align-content: start;
+}
+
+.bienvenidos{
+    color: rgb(0, 197, 0);
+}
+
+.grupo{
+    border: 1px rgb(119, 175, 248) ;
+    border-style: solid;
+    padding-left: 10px;
+    margin-left: 200px;
+    margin-top: -160px;
+    width: 900px; queda muy encogido pero lo pide el enunciado
+    display: inline-block;
+}
+
+footer{
+    color: rgb(189, 185, 185);
+    padding-top: 5px;;
+    text-align: center;
+    margin-left: -350px;
+}

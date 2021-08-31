@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color:forestgreen
+}
+span{
+    color:coral;
+}
+h2{
+    color:forestgreen;
+    text-decoration: underline;
+    margin: 20px;
+}
+h3{
+    color: coral;
+    margin: 20px;
+}
+div{
+    border-style: solid;
+    border-width: 1px;
+    border-color: forestgreen;
+}
+p{
+    margin: 20px;
+}
